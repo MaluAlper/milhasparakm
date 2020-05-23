@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\milhasparakm\milhasparakm\obj\Debug\netcoreapp3.1\milhasparakm.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\milhasparakm\milhasparakm\obj\Debug\netcoreapp3.1\milhasparakm.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\milhasparakm\milhasparakm\obj\Debug\netcoreapp3.1\milhasparakm.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\milhasparakm\milhasparakm\bin\Debug\netcoreapp3.1\milhasparakm.exe
+C:\Users\Maria Luiza\Documents\Luiza\milhasparakm\milhasparakm\bin\Debug\netcoreapp3.1\milhasparakm.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\milhasparakm\milhasparakm\bin\Debug\netcoreapp3.1\milhasparakm.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\milhasparakm\milhasparakm\bin\Debug\netcoreapp3.1\milhasparakm.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\milhasparakm\milhasparakm\bin\Debug\netcoreapp3.1\milhasparakm.dll
+C:\Users\Maria Luiza\Documents\Luiza\milhasparakm\milhasparakm\bin\Debug\netcoreapp3.1\milhasparakm.pdb
+C:\Users\Maria Luiza\Documents\Luiza\milhasparakm\milhasparakm\obj\Debug\netcoreapp3.1\milhasparakm.dll
+C:\Users\Maria Luiza\Documents\Luiza\milhasparakm\milhasparakm\obj\Debug\netcoreapp3.1\milhasparakm.pdb
